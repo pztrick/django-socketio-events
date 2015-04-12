@@ -1,0 +1,5 @@
+include *.txt
+include *.md
+include *.json
+include *.js
+recursive-include * *

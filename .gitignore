@@ -1,0 +1,18 @@
+# build files
+*.egg-info
+*.pot
+*.py[co]
+__pycache__
+MANIFEST
+dist/
+build/
+node_modules/
+
+# cache files
+*~
+
+# ide files
+.ropeproject
+*.sublime-workspace
+*.sublime-project
+.env

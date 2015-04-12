@@ -1,0 +1,2 @@
+v0.1.0, 2014/12/15 -- Initial release. Proof of concept.
+v0.1.1, 2015/04/11 -- Added AppFinder-esque functionality to introspect available socket.io events.
