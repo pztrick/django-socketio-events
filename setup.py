@@ -103,7 +103,7 @@ class custom_install(install):
 setup(
     cmdclass={'install': custom_install},
     name='django-socketio-events',
-    version='0.1.1',
+    version='0.1.2',
     author='Patrick Paul',
     author_email='pztrick44@gmail.com',
     packages=find_packages() + ['nodjango.node_modules'],
